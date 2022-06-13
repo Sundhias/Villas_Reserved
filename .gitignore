@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Villas Reserved-New/build/
+/Villas Reserved-New/build/intermediates/javac/debug/classes/
